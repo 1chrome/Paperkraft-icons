@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <version>1</version>
+    <!--System apps-->
+    <category title="System"/>
+    <item drawable="browser"/>
+    <item drawable="calculator"/>
+    <item drawable="camera"/>
+    <item drawable="contacts"/>
+    <item drawable="clock"/>
+    <item drawable="dialer"/>
+    <item drawable="mail"/>
+    <item drawable="messaging"/>
+    <item drawable="settings"/>
+
+    <!--Google apps-->
+    <category title="Google"/>
+    <item drawable="assistant"/>
+    <item drawable="chrome"/>
+    <item drawable="chrome_dev"/>
+    <item drawable="chrome_beta"/>
+    <item drawable="chrome_canary"/>
+    <item drawable="digitalwellbeing"/>
+    <item drawable="documents"/>
+    <item drawable="downloads"/>
+    <item drawable="docs"/>
+    <item drawable="duo"/>
+    <item drawable="drive"/>
+    <item drawable="google"/>
+    <item drawable="gcalendar"/>
+    <item drawable="gdialer"/>
+    <item drawable="gmail"/>
+    <item drawable="gboard"/>
+    <item drawable="google_plus"/>
+    <item drawable="gpay"/>
+    <item drawable="gmessages"/>
+    <item drawable="hangouts"/>
+    <item drawable="home"/>
+    <item drawable="inbox"/>
+    <item drawable="files"/>
+    <item drawable="fit"/>
+    <item drawable="keep"/>
+    <item drawable="maps"/>
+    <item drawable="opinion_rewards"/>
+    <item drawable="photos"/>
+    <item drawable="playmovies"/>
+    <item drawable="playgames"/>
+    <item drawable="playstore"/>
+    <item drawable="playmusic"/>
+    <item drawable="playbooks"/>
+    <item drawable="playservices"/>
+    <item drawable="playconsole"/>
+    <item drawable="sheets"/>
+    <item drawable="snapseed"/>
+    <item drawable="slides"/>
+    <item drawable="translate"/>
+    <item drawable="youtube"/>
+    <item drawable="vanced"/>
+
+    <!--Microsoft-->
+    <category title="Microsoft"/>
+    <item drawable="word"/>
+    <item drawable="teams"/>
+    <item drawable="edge"/>
+    <item drawable="outlook"/>
+    <item drawable="sharepoint"/>
+    <item drawable="onenote"/>
+    <item drawable="powerpoint"/>
+    <item drawable="skype"/>
+    <item drawable="excel"/>
+    <item drawable="sms_organiser"/>
+
+
+    <!--Everything else-->
+    <category title="Everything else"/>
+    <item drawable="adaway"/>
+    <item drawable="facebook"/>
+    <item drawable="action_launcher"/>
+    <item drawable="facebook_lite"/>
+    <item drawable="messenger"/>
+    <item drawable="messenger_lite"/>
+    <item drawable="amazon"/>
+    <item drawable="axis"/>
+    <item drawable="telegram"/>
+    <item drawable="telegramx"/>
+    <item drawable="primevideo"/>
+    <item drawable="spotify"/>
+    <item drawable="instagram"/>
+    <item drawable="sbi"/>
+    <item drawable="ola"/>
+    <item drawable="lawnchair"/>
+    <item drawable="home"/>
+    <item drawable="magisk"/>
+    <item drawable="novalauncher"/>
+    <item drawable="medium"/>
+    <item drawable="netflix"/>
+    <item drawable="soundcloud"/>
+    <item drawable="twitter"/>
+    <item drawable="zomato"/>
+    <item drawable="uber"/>
+    <item drawable="flipkart"/>
+    <item drawable="swiggy"/>
+    <item drawable="primemusic"/>
+    <item drawable="pinterest"/>
+    <item drawable="whatsapp"/>
+    <item drawable="flamingo"/>
+    <item drawable="headspace"/>
+    <item drawable="xda"/>
+    <item drawable="snapchat"/>
+    <item drawable="paytm"/>
+    <item drawable="vlc"/>
+    <item drawable="evernote"/>
+    <item drawable="plus_messenger"/>
+    <item drawable="ticktick"/>
+    <item drawable="airtel"/>
+    <item drawable="adm"/>
+    <item drawable="fkm"/>
+    <item drawable="exkm"/>
+    <item drawable="kiwi_browser"/>
+
+
+
+
+
+
+
+</resources>

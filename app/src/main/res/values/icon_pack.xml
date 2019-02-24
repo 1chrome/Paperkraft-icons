@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+        <!-- Make sure to put at least 8 icons -->
+        <string-array name="icons_preview">
+            <item>whatsapp</item>
+            <item>telegram</item>
+            <item>magisk</item>
+            <item>uber</item>
+            <item>files</item>
+            <item>calculator</item>
+            <item>novalauncher</item>
+            <item>duo</item>
+            <item>zomato</item>
+            <item>digitalwellbeing</item>
+            <item>teams</item>
+            <item>sharepoint</item>
+        </string-array>
+</resources>
