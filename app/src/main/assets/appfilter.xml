@@ -2636,7 +2636,7 @@
     <!--<item component="ComponentInfo{com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.splash.SplashActivity}" drawable="datally" />-->
     <!--<item component="ComponentInfo{com.google.android.vr.home/com.google.android.apps.vr.home.app.MainActivity}" drawable="daydream" />-->
     <!--<item component="ComponentInfo{com.google.android.apps.geo.briim.gnobu/com.google.android.apps.geo.briim.gnobu.NewMainActivity}" drawable="delhi_public_transporter" />-->
-    <!--<item component="ComponentInfo{com.google.android.apps.cavalry/com.google.android.apps.cavalry.activities.InitActivity}" drawable="assistant" />-->
+    <item component="ComponentInfo{com.google.android.apps.cavalry/com.google.android.apps.cavalry.activities.InitActivity}" drawable="assistant" />
     <!--<item component="ComponentInfo{com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity}" drawable="device_policy" />-->
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.Launcher}" drawable="documents" />
     <!--<item component="ComponentInfo{com.google.android.drx/com.google.android.apps.drx.android.mainactivity.MainActivity}" drawable="doubleclick_for_publishers" />-->
