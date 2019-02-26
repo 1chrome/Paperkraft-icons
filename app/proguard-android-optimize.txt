@@ -31,14 +31,14 @@
     native <methods>;
 }
 
-# keep setters in Views so that animations can still work.
+# google_keep setters in Views so that animations can still work.
 # see http://proguard.sourceforge.net/manual/examples.html#beans
 -keepclassmembers public class * extends android.view.View {
    void set*(***);
    *** get*();
 }
 
-# We want to keep methods in Activity that could be used in the XML attribute onClick
+# We want to google_keep methods in Activity that could be used in the XML attribute onClick
 -keepclassmembers class * extends android.app.Activity {
    public void *(android.view.View);
 }

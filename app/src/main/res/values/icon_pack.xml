@@ -9,11 +9,20 @@
             <item>uber</item>
             <item>files</item>
             <item>calculator</item>
-            <item>novalauncher</item>
+            <item>nova_launcher</item>
             <item>duo</item>
             <item>zomato</item>
-            <item>digitalwellbeing</item>
+            <item>digital_wellbeing</item>
             <item>teams</item>
             <item>sharepoint</item>
+            <item>adm</item>
+            <item>adaway</item>
+            <item>action_launcher</item>
+            <item>camera</item>
+            <item>chrome_beta</item>
+            <item>evernote</item>
+            <item>prime_music</item>
+            <item>prime_video</item>
+
         </string-array>
 </resources>

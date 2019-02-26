@@ -185,7 +185,7 @@
             </intent-filter>
         </activity>
 
-        <!-- Required for files access !!! DO NOT REMOVE !!! -->
+        <!-- Required for google_files access !!! DO NOT REMOVE !!! -->
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.fileProvider"
