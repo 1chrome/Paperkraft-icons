@@ -7383,7 +7383,7 @@
     <!--<item component="ComponentInfo{com.miui.enbbs/com.miui.miuibbs.activity.WelcomeActivity}" drawable="xiaomi_forum" />-->
     <!--<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="xiaomi_gallery"/>-->
     <!--<item component="ComponentInfo{com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity}" drawable="xiaomi_games"/>-->
-    <!--<item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="xiaomi_health" />-->
+    <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mi_fit" />
     <!--<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="xiaomi_message"/>-->
     <!--<item component="ComponentInfo{com.xiaomi.account/com.xiaomi.account.ui.AccountSettingsActivity}" drawable="xiaomi_mi_account" />-->
     <!--<item component="ComponentInfo{com.xiaomi.account/com.xiaomi.account.ui.MainAccountActivity}" drawable="xiaomi_mi_account_alt"/>-->
