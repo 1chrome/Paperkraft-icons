@@ -2593,15 +2593,15 @@
     <!--<item component="ComponentInfo{com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.TimerActivity}" drawable="goodtimes"/>-->
 
     <!-- Google -->
-    <!--<item component="ComponentInfo{com.google.android.apps.accessibility.auditor/com.google.android.apps.accessibility.auditor.ui.MainActivity}" drawable="accessibility_test" />-->
-    <!--<item component="ComponentInfo{com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.BaseActivity}" drawable="adsense"/>-->
-    <!--<item component="ComponentInfo{com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.ReportActivity}" drawable="adsense" />-->
-    <!--<item component="ComponentInfo{com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity}" drawable="adwords"/>-->
-    <!--<item component="ComponentInfo{com.google.android.apps.ads.express/com.google.android.apps.ads.express.activities.entrypoint.LaunchActivity}" drawable="adwords_express"/>-->
-    <!--<item component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.activity.LauncherActivity}" drawable="analytics"/>-->
-    <!--<item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}" drawable="android_auto"/>-->
-    <!--<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="android_device_manager"/>-->
-    <!--<item component="ComponentInfo{com.google.android.apps.edu.nfcprogrammer/com.google.android.apps.edu.nfcprogrammer.activities.WelcomeActivity}" drawable="android_device_enrollment" />-->
+    <item component="ComponentInfo{com.google.android.apps.accessibility.auditor/com.google.android.apps.accessibility.auditor.ui.MainActivity}" drawable="accessibility_test" />
+    <item component="ComponentInfo{com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.BaseActivity}" drawable="adsense"/>
+    <item component="ComponentInfo{com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.ReportActivity}" drawable="adsense" />
+    <item component="ComponentInfo{com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity}" drawable="adwords"/>
+    <item component="ComponentInfo{com.google.android.apps.ads.express/com.google.android.apps.ads.express.activities.entrypoint.LaunchActivity}" drawable="adwords_express"/>
+    <item component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.activity.LauncherActivity}" drawable="analytics"/>
+    <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}" drawable="android_auto"/>
+    <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="android_device_manager"/>
+    <item component="ComponentInfo{com.google.android.apps.edu.nfcprogrammer/com.google.android.apps.edu.nfcprogrammer.activities.WelcomeActivity}" drawable="android_device_enrollment" />
     <!--<item component="ComponentInfo{com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify}" drawable="androidify" />-->
     <!--<item component="ComponentInfo{com.google.android.apps.work.testdrive/com.google.android.apps.work.testdrive.LaunchActivity}" drawable="android_management_experience" />-->
     <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="google_pay" />
@@ -2676,12 +2676,12 @@
     <!--<item component="ComponentInfo{com.google.enterprise.topaz.mobile.android/com.google.enterprise.topaz.mobile.android.MainActivity}" drawable="google_springboard" />-->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate" />
     <!--<item component="ComponentInfo{com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.activities.SplashActivity}" drawable="google_triangle"/>-->
-    <!--<item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice" />-->
+    <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice" />
     <!--<item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="google_wallpapers"/>-->
     <!--<item component="ComponentInfo{com.google.android.apps.access.wifi.consumer/com.google.android.apps.access.wifi.consumer.app.MainActivity}" drawable="google_wifi" />-->
     <!--<item component="ComponentInfo{com.google.android.apps.instore.consumer/com.google.android.apps.instore.consumer.ui.MainActivity}" drawable="hands_free" />-->
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="hangouts" />
-    <!--<item component="ComponentInfo{com.google.android.apps.hangoutsdialer/com.google.android.apps.hangoutsdialer.app.LaunchActivity}" drawable="hangouts_dialer" />-->
+    <item component="ComponentInfo{com.google.android.apps.hangoutsdialer/com.google.android.apps.hangoutsdialer.app.LaunchActivity}" drawable="hangouts_dialer" />
     <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="google_home"/>
     <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="inbox_by_gmail"/>
     <!--<item component="ComponentInfo{com.google.android.apps.interactiveevents/com.google.android.apps.interactiveevents.companion.ui.SplashActivity}" drawable="interactive_events" />-->
@@ -2691,7 +2691,7 @@
     <!--<item component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity}" drawable="newsandweather" />-->
     <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="google_news" />
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards" />
-    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="google_dialer" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity/.extensions.GoogleDialtactsActivity}" drawable="google_dialer" />
     <!--<item component="ComponentInfo{com.google.android.apps.google_photos.scanner/com.google.android.apps.google_photos.scanner.home.HomeActivity}" drawable="photo_scanner" />-->
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" />
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="google_play_games" />
@@ -2707,7 +2707,6 @@
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_slides" />
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity}" drawable="snapseed"/>
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
-    <!--<item component="ComponentInfo{com.google.android.apps.social.spaces/com.google.android.apps.social.spaces.HomeActivity}" drawable="space"/>-->
     <!--<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="stk" />-->
     <!--<item component="ComponentInfo{com.google.android.apps.userpanel/com.google.android.apps.userpanel.activities.MainActivity}" drawable="screenwise_meter" />-->
     <!--<item component="ComponentInfo{com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity}" drawable="streetview"/>-->
@@ -2724,9 +2723,9 @@
     <!--<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.velour.DynamicActivityTrampoline}" drawable="weather_g" />-->
 
     <!--  Google Indic Keyboard -->
-    <!--<item component="ComponentInfo{com.google.android.apps.inputmethod.hindi/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_keyboard" />-->
-    <!--<item component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_keyboard" />-->
-    <!--<item component="ComponentInfo{com.google.android.inputmethod.korean/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_keyboard" />-->
+    <item component="ComponentInfo{com.google.android.apps.inputmethod.hindi/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_indic_keyboard" />
+    <item component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_indic_keyboard" />
+    <item component="ComponentInfo{com.google.android.inputmethod.korean/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_indic_keyboard" />
 
     <!--  Generic -->
     <!--<item component="ComponentInfo{com.android.google_contacts/com.android.google_contacts.activities.PeopleActivity}" drawable="google_contacts"/>-->
