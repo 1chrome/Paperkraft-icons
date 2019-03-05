@@ -367,7 +367,7 @@
     <!--<item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="amazon_kindle"/>-->
 
     <!-- Amazon Music -->
-    <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="primemusic" />
+    <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="amazon_prime_music" />
 
     <!-- Ambi-Turner -->
     <!--<item component="ComponentInfo{com.compass.ambiturner/com.compass.ambiturner.MainActivity}" drawable="ambi_tuner" />-->
@@ -2602,13 +2602,12 @@
     <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}" drawable="android_auto"/>
     <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="android_device_manager"/>
     <item component="ComponentInfo{com.google.android.apps.edu.nfcprogrammer/com.google.android.apps.edu.nfcprogrammer.activities.WelcomeActivity}" drawable="android_device_enrollment" />
-    <!--<item component="ComponentInfo{com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify}" drawable="androidify" />-->
     <!--<item component="ComponentInfo{com.google.android.apps.work.testdrive/com.google.android.apps.work.testdrive.LaunchActivity}" drawable="android_management_experience" />-->
     <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="google_pay" />
     <item component="ComponentInfo{com.google.android.apps.nbu.paisa.user/com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity}" drawable="google_pay" />
     <!--<item component="ComponentInfo{com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity}" drawable="android_remote_tv"/>-->
-    <!--<item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="android_wear"/>-->
-    <!--<item component="ComponentInfo{com.google.android.apps.fireball/com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity}" drawable="allo" />-->
+    <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="wear_oS"/>
+    <item component="ComponentInfo{com.google.android.apps.fireball/com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity}" drawable="allo" />
     <!--<item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="authenticator" />-->
     <!--<item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.activity.WebViewActivity}" drawable="arts_and_culture"/>-->
     <!--<item component="ComponentInfo{com.google.android.apps.location.beacon.beacontools/com.google.android.apps.location.beacon.beacontools.activities.MainActivity}" drawable="beacon_tools"/>-->
@@ -2623,8 +2622,8 @@
     <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="google_chrome_beta"/>
     <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="google_chrome_canary"/>
     <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="google_chrome_dev"/>
-    <!--<item component="ComponentInfo{com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting}" drawable="chrome_remote_desktop"/>-->
-    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting}" drawable="chrome_remote_desktop"/>
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="google_clock" />
     <!--<item component="ComponentInfo{com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.MainContainerActivity}" drawable="cloud_console"/>-->
     <!--<item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity}" drawable="classroom"/>-->
     <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="google_contacts" />
@@ -2654,7 +2653,7 @@
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
     <!--<item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="google_admin"/>-->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google" />
-    <!--<item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="google_assistant"/>-->
+    <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="google_assistant"/>
     <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs" />
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive" />
     <!--<item component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}" drawable="google_earth"/>-->
@@ -2701,7 +2700,7 @@
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="google_play_services"/>
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store" />
     <item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="google_play_console" />
-    <!--<item component="ComponentInfo{com.google.android.apps.tycho/com.google.android.apps.tycho.AccountDetailsActivity}" drawable="project_fi" />-->
+    <item component="ComponentInfo{com.google.android.apps.tycho/com.google.android.apps.tycho.AccountDetailsActivity}" drawable="project_fi" />
     <!--<item component="ComponentInfo{com.google.android.apps.santatracker/com.google.android.apps.santatracker.launch.StartupActivity}" drawable="santa_tracker" />-->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_slides" />
@@ -5275,7 +5274,7 @@
     <!--<item component="ComponentInfo{com.amazon.now/com.amazon.now.home.WelcomeScreen}" drawable="prime_now"/>-->
 
     <!-- Prime Video -->
-    <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="prime_video"/>
+    <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="amazon_prime_video"/>
 
     <!--  Prip -->
     <!--<item component="ComponentInfo{com.motorola.ptt.prip/com.motorola.ptt.MainActivity}" drawable="att_prip"/>-->

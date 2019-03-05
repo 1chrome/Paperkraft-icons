@@ -15,12 +15,10 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="Chapter 1.0.2 - Maintenance release" />
-    <item text="Icon size updates" />
-    <item text="Improved colours" />
-    <item text="Redesigned some Google and system icons" />
-
-
+    <version title="Chapter 1.10 - Maintenance release 3" />
+    <item text="Added 4 new Google app icons" />
+    <item text="Fixed Spotify" />
+    <item text="Fixed activity mismatches" />
     <!--App changes-->
 
 </resources>
