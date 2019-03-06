@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Theme version="1">
+    <Label value="Paperkraft icons" />
+
+    <!-- Camera -->
+    <AppIcon
+        name="com.android.camera2/com.android.camera.CameraLauncher"
+        image="camera" />
+    <!-- Contacts -->
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.PeopleActivity"
+        image="contacts" />
+    <!-- AdAway -->
+    <AppIcon
+        name="org.adaway/org.adaway.ui.MainActivity"
+        image="adaway" />
+    <!-- Lawnchair -->
+    <AppIcon
+        name="ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher"
+        image="lawnchair" />
+    <!-- Google Opinion Rewards -->
+    <AppIcon
+        name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity"
+        image="google_opinion_rewards" />
+    <!-- ADM -->
+    <AppIcon
+        name="com.dv.adm/com.dv.get.Main"
+        image="adm" />
+    <!-- Medium -->
+    <AppIcon
+        name="com.medium.reader/com.medium.android.donkey.start.SplashActivity"
+        image="medium" />
+
+</Theme>

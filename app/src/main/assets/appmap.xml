@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<appmap>
+
+    <!-- Camera -->
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera" />
+
+    <!-- Contacts -->
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+
+    <!-- AdAway -->
+    <item
+        class="org.adaway.ui.MainActivity"
+        name="adaway" />
+
+    <!-- Lawnchair -->
+    <item
+        class="ch.deletescape.lawnchair.LawnchairLauncher"
+        name="lawnchair" />
+
+    <!-- Google Opinion Rewards -->
+    <item
+        class="com.google.android.apps.paidtasks.activity.LaunchActivity"
+        name="google_opinion_rewards" />
+
+    <!-- ADM -->
+    <item
+        class="com.dv.get.Main"
+        name="adm" />
+
+    <!-- Medium -->
+    <item
+        class="com.medium.android.donkey.start.SplashActivity"
+        name="medium" />
+
+</appmap>
