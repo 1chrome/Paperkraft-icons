@@ -20,6 +20,7 @@
     <item drawable="adwords"/>
     <item drawable="adwords_express"/>
     <item drawable="adsense"/>
+    <item drawable="wear_os"/>
     <item drawable="analytics"/>
     <item drawable="android_auto"/>
     <item drawable="android_device_manager"/>

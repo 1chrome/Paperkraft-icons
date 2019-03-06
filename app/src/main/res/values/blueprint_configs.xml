@@ -86,8 +86,8 @@
     <integer name="time_limit_in_minutes">0</integer>
 
     <!-- Leave empty to disable. A URL to an Arctic Request Manager server, e.g. https://arcticmanager.com -->
-    <string name="arctic_backend_host"></string>
+    <string name="arctic_backend_host">https://arcticmanager.com</string>
 
     <!-- Host must also be filled in first. An app API key from Arctic Request Manager. -->
-    <string name="arctic_backend_api_key" tools:ignore="TypographyDashes"></string>
+    <string name="arctic_backend_api_key" tools:ignore="TypographyDashes">0637d0b0-6550-4de7-a5ce-bd23189b3f2b</string>
 </resources>
