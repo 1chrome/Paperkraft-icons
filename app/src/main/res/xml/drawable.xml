@@ -52,6 +52,7 @@
     <item drawable="inbox_by_gmail"/>
     <item drawable="google_files"/>
     <item drawable="google_fit"/>
+    <item drawable="project_fi"/>
     <item drawable="google_keep"/>
     <item drawable="google_maps"/>
     <item drawable="google_news"/>
@@ -73,7 +74,7 @@
     <item drawable="hangouts_dialer"/>
     <item drawable="hangouts"/>
     <item drawable="google_voice"/>
-    \<item drawable="project_fi"/>
+    <item drawable="wear_os"/>
 
 
 
@@ -95,24 +96,26 @@
     <!--Everything else-->
     <category title="Everything else"/>
     <item drawable="adaway"/>
-    <item drawable="facebook"/>
+    <item drawable="adm"/>
     <item drawable="action_launcher"/>
-    <item drawable="facebook_lite"/>
-    <item drawable="messenger"/>
-    <item drawable="messenger_lite"/>
     <item drawable="amazon"/>
+    <item drawable="amazon_prime_music"/>
+    <item drawable="amazon_prime_video"/>
+    <item drawable="airtel"/>
     <item drawable="axis"/>
+    <item drawable="facebook"/>
+    <item drawable="facebook_lite"/>
+    <item drawable="facebook_messenger"/>
+    <item drawable="facebook_messenger_lite"/>
     <item drawable="telegram"/>
-    <item drawable="telegramx"/>
-    <item drawable="primevideo"/>
+    <item drawable="telegram_x"/>
     <item drawable="spotify"/>
     <item drawable="instagram"/>
     <item drawable="sbi"/>
     <item drawable="ola"/>
     <item drawable="lawnchair"/>
-    <item drawable="home"/>
     <item drawable="magisk"/>
-    <item drawable="novalauncher"/>
+    <item drawable="nova_launcher"/>
     <item drawable="medium"/>
     <item drawable="netflix"/>
     <item drawable="soundcloud"/>
@@ -121,7 +124,6 @@
     <item drawable="uber"/>
     <item drawable="flipkart"/>
     <item drawable="swiggy"/>
-    <item drawable="primemusic"/>
     <item drawable="pinterest"/>
     <item drawable="whatsapp"/>
     <item drawable="flamingo"/>
@@ -133,10 +135,8 @@
     <item drawable="evernote"/>
     <item drawable="plus_messenger"/>
     <item drawable="ticktick"/>
-    <item drawable="airtel"/>
-    <item drawable="adm"/>
-    <item drawable="fkm"/>
-    <item drawable="exkm"/>
+    <item drawable="franco_kernel_manager"/>
+    <item drawable="ex_kernel_manager"/>
     <item drawable="kiwi_browser"/>
     <item drawable="mi_fit"/>
 
