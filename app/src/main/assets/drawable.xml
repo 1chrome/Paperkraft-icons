@@ -23,7 +23,9 @@
     <item drawable="analytics"/>
     <item drawable="android_auto"/>
     <item drawable="android_device_manager"/>
-    <item drawable="android_device_enrollment"/>
+    <item drawable="allo"/>
+    <item drawable="chrome_remote_desktop"/>
+    <item drawable="datally"/>
     <item drawable="google_assistant"/>
     <item drawable="google_chrome"/>
     <item drawable="google_chrome_dev"/>
@@ -41,6 +43,7 @@
     <item drawable="google_contacts"/>
     <item drawable="google_calculator"/>
     <item drawable="google_dialer"/>
+    <item drawable="google_io"/>
     <item drawable="gmail"/>
     <item drawable="gboard"/>
     <item drawable="google_indic_keyboard"/>
@@ -48,6 +51,7 @@
     <item drawable="google_pay"/>
     <item drawable="google_messages"/>
     <item drawable="hangouts"/>
+    <item drawable="hangouts_dialer"/>
     <item drawable="google_home"/>
     <item drawable="inbox_by_gmail"/>
     <item drawable="google_files"/>
@@ -69,14 +73,20 @@
     <item drawable="snapseed"/>
     <item drawable="google_slides"/>
     <item drawable="google_translate"/>
+    <item drawable="google_trips"/>
     <item drawable="youtube"/>
     <item drawable="youtube_vanced"/>
-    <item drawable="hangouts_dialer"/>
     <item drawable="hangouts"/>
     <item drawable="google_voice"/>
     <item drawable="wear_os"/>
 
-
+    <!--OnePlus-->
+    <category title="OnePlus"/>
+    <item drawable="oneplus_dialer"/>
+    <item drawable="oneplus_messages"/>
+    <item drawable="oneplus_contacts"/>
+    <item drawable="oneplus_calculator"/>
+    <item drawable="oneplus_clock"/>
 
 
     <!--Microsoft-->
