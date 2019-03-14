@@ -90,6 +90,9 @@
     <item drawable="oneplus_weather"/>
     <item drawable="oneplus_recorder"/>
     <item drawable="oneplus_camera"/>
+    <item drawable="oneplus_gallery"/>
+    <item drawable="oneplus_file_manager"/>
+
 
 
     <!--Microsoft-->
@@ -152,5 +155,6 @@
     <item drawable="ex_kernel_manager"/>
     <item drawable="kiwi_browser"/>
     <item drawable="mi_fit"/>
+    <item drawable="solid_explorer"/>
 
 </resources>
