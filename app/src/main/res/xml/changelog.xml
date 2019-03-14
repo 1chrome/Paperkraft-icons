@@ -15,10 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="Chapter 1.10 - Maintenance release 3" />
-    <item text="Added 4 new Google app icons" />
-    <item text="Fixed Spotify" />
-    <item text="Fixed activity mismatches" />
+    <version title="Chapter 1.12" />
+    <item text="Added 5 new Google app icons" />
+    <item text="Added OnePlus icons" />
     <!--App changes-->
 
 </resources>

@@ -4670,7 +4670,7 @@
     <!--  OnePlus -->
     <!--<item component="ComponentInfo{com.oneplus.opbugreport/com.oneplus.opbugreport.OPUploadReport}" drawable="oneplus_bug_reporter"/>-->
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="oneplus_calculator" />
-    <!--<item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="oneplus_camera"/>-->
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="oneplus_camera"/>
     <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="oneplus_clock" />
     <item component="ComponentInfo{com.android.google_contacts/com.oneplus.google_contacts.activities.OPPeopleActivity}" drawable="oneplus_contacts" />
     <!--<item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="oneplus_file_manager" />-->
@@ -4678,8 +4678,8 @@
     <!--<item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="oneplus_gallery"/>-->
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="oneplus_messages"/>
     <item component="ComponentInfo{com.android.dialer/com.oneplus.google_contacts.activities.OPDialtactsActivity}" drawable="oneplus_dialer"/>
-    <!--<item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="oneplus_recorder"/>-->
-    <!--<item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="oneplus_weather" />-->
+    <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="oneplus_recorder"/>
+    <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="oneplus_weather" />
 
     <!--  OnePX -->
     <!--<item component="ComponentInfo{com.Fraom.OnePX/com.Fraom.OnePX.activities.StartActivity}" drawable="onepx"/>-->

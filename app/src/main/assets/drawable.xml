@@ -87,6 +87,9 @@
     <item drawable="oneplus_contacts"/>
     <item drawable="oneplus_calculator"/>
     <item drawable="oneplus_clock"/>
+    <item drawable="oneplus_weather"/>
+    <item drawable="oneplus_recorder"/>
+    <item drawable="oneplus_camera"/>
 
 
     <!--Microsoft-->
