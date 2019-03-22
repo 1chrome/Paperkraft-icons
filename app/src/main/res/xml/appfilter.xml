@@ -2715,6 +2715,7 @@
     <!--<item component="ComponentInfo{com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity}" drawable="voiceaccess" />-->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google" />
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
     <!--<item component="ComponentInfo{com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity}" drawable="youtube_gaming" />-->
     <!--<item component="ComponentInfo{com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.activities.SplashScreenActivity}" drawable="youtube_kids" />-->
     <!--<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.activities.MainActivity}" drawable="youtube_tv" />-->
@@ -2725,6 +2726,9 @@
     <item component="ComponentInfo{com.google.android.apps.inputmethod.hindi/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_indic_keyboard" />
     <item component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_indic_keyboard" />
     <item component="ComponentInfo{com.google.android.inputmethod.korean/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_indic_keyboard" />
+
+    <!--  Google PDF Viewer -->
+    <item component="com.google.android.apps.pdfviewer}" drawable="google_pdf_viewer"/>
 
     <!--  Generic -->
     <item component="ComponentInfo{com.android.google_contacts/com.android.google_contacts.activities.PeopleActivity}" drawable="google_contacts"/>
@@ -4668,13 +4672,12 @@
     <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote"/>
 
     <!--  OnePlus -->
-    <!--<item component="ComponentInfo{com.oneplus.opbugreport/com.oneplus.opbugreport.OPUploadReport}" drawable="oneplus_bug_reporter"/>-->
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="oneplus_calculator" />
     <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="oneplus_camera"/>
     <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="oneplus_clock" />
     <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="oneplus_contacts" />
     <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="oneplus_file_manager" />
-    <!--<item component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" drawable="oneplus_community" />-->
+    <item component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" drawable="oneplus_community" />
     <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="oneplus_gallery"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="oneplus_messages"/>
     <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="oneplus_dialer"/>
@@ -4712,8 +4715,7 @@
     <!--  OpenTasks -->
     <!--<item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />-->
 
-    <!--  OpenVPN Connect -->
-    <!--<item component="ComponentInfo{net.openvpn.openvpn/net.openvpn.openvpn.OpenVPNClient}" drawable="openvpn" />-->
+    <!--  OpenVPN Connect --><!--<item component="ComponentInfo{net.openvpn.openvpn/net.openvpn.openvpn.OpenVPNClient}" drawable="openvpn" />-->
 
     <!--  OpenVPN_Servers -->
     <!--<item component="ComponentInfo{pw.dschmidt.vpnapp.app/pw.dschmidt.vpnapp.app.MainActivity}" drawable="openvpn_server"/>-->

@@ -15,9 +15,8 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="Chapter 1.12" />
-    <item text="Added 5 new Google app icons" />
-    <item text="Added OnePlus icons" />
+    <version title="Chapter 1.14" />
+    <item text="Added 4 new icons"/>
     <!--App changes-->
 
 </resources>

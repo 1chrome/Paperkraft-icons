@@ -79,6 +79,9 @@
     <item drawable="hangouts"/>
     <item drawable="google_voice"/>
     <item drawable="wear_os"/>
+    <item drawable="google_pdf_viewer"/>
+    <item drawable="youtube_music"/>
+
 
     <!--OnePlus-->
     <category title="OnePlus"/>
@@ -92,6 +95,7 @@
     <item drawable="oneplus_camera"/>
     <item drawable="oneplus_gallery"/>
     <item drawable="oneplus_file_manager"/>
+    <item drawable="=oneplus_community"/>
 
 
 
